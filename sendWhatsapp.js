@@ -3,7 +3,7 @@ const csv = require("csv-parser");
 const axios = require("axios");
 
 const API_URL = "https://my.kudisms.net/api/whatsapp";
-const TOKEN = "BZtVPJU1frA6i8sbyScXx3LqHD92OkwRljaNQ0WFg7ue5Md4GTKoEhzpYnmCvI";
+const TOKEN = "WshvHMJjoCY2BSRnxqN54AdtFfkLrDTUpb6Qli30Xgzy9w17PIOmEZecKV8uaG1";
 const TEMPLATE_CODE = "56549481";
 
 const promises = [];
